@@ -4,6 +4,7 @@ Additions:
 - CICADA
 - FancyMenu
 - Figura
+- Konkrete
 - Krypton
 - Modpack Update Checker
 

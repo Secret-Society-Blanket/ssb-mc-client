@@ -6,12 +6,12 @@
       "id": "Asleep",
       "releasedAt": 1710475200000,
       "updateType": "major"
-    }
+    },
     {
       "id": "Asleep.a",
       "releasedAt": 1710561600000,
       "updateType": "minor"
-    }
+    },
     {
       "id": "Asleep.b",
       "releasedAt": 1712729531000,

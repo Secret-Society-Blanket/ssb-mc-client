@@ -1,0 +1,16 @@
+Additions:
+- CICADA
+- Figura
+- Krypton
+- Modpack Update Checker
+
+Updates:
+- Better F3 9.0.0 -> 9.0.2
+- Bounced 4.0.0 -> 4.1.0
+- Do a Barrel Roll 3.3.8 -> 3.5.8
+- Elytra Trims 2.0.3 -> 2.1.1
+- Entity Culling 1.6.3.1 -> 1.6.4
+- Fabric API 0.96.4 -> 0.96.11
+- Falling Leaves 1.15.4 -> 1.15.6
+- Mod Menu 9.0.0 -> 9.1.0-beta.1
+- Wakes 0.2.3 -> 0.2.2 (regress)

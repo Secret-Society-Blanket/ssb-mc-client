@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "Asleep.b",
+      "releasedAt": 1712726370,
+      "updateType": "minor"
+    }
+  ]
+}

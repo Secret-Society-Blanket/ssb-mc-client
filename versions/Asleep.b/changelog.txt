@@ -1,11 +1,14 @@
 Additions:
 
+
 - CICADA
 - Figura
 - Krypton
 - Modpack Update Checker
 
+
 Updates:
+
 
 - Better F3 9.0.0 -> 9.0.2
 - Bounced 4.0.0 -> 4.1.0

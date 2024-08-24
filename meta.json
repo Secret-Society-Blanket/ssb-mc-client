@@ -16,6 +16,11 @@
       "id": "Asleep.b",
       "releasedAt": 1712729531000,
       "updateType": "minor"
+    },
+    {
+      "id": "Bedtime",
+      "releasedAt": 1724541737522,
+      "updateType": "major"
     }
   ]
 }

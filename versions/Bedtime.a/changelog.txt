@@ -1,0 +1,4 @@
+Fixed Distant Horizon's default settings causing crashes. If you still get crashes, try allocating more RAM to Minecraft.
+
+Updates:
+- Mod Menu 11.0.1 -> 11.0.2

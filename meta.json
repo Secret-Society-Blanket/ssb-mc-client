@@ -21,6 +21,11 @@
       "id": "Bedtime",
       "releasedAt": 1724541737522,
       "updateType": "major"
+    },
+    {
+      "id": "Bedtime.a",
+      "releasedAt": 1724611302630,
+      "updateType": "minor"
     }
   ]
 }
